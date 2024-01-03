@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/paulparkinson/paulparkinson/_apis/build/status%2Fpaulparkinson.pipelines-java?branchName=main)](https://dev.azure.com/paulparkinson/paulparkinson/_build/latest?definitionId=2&branchName=main)
+[![Build Status](https://dev.azure.com/paulparkinson/paulparkinson/_apis/build/status%2Fpaulparkinson.pipelines-java?branchName=main)](https://dev.azure.com/paulparkinson/paulparkinson/_build/latest?definitionId=2&branchName=main) 
 
 # Contributing
 
